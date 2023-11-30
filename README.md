@@ -7,7 +7,7 @@ Fully Responsive Modern UI/UX Travel Guide Landing Page developed using React.js
 
 ## Overview 🚀
 
-This project aims to provide a stunning travel guide experience, focusing on:
+This project provide a stunning travel guide experience, focusing on:
 
 - **Appealing Hero Section:** Engage users with an attractive hero section highlighting the essence of travel.
 - **Camp Exploration:** Discover various camps and explore exciting destinations.
