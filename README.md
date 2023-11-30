@@ -1,6 +1,6 @@
 # Travel Guide Landing Page 🌍✈️
 
-Welcome to our Fully Responsive Modern UI/UX Travel Guide Landing Page developed using React.js, Next.js 13, and Tailwind CSS!
+Fully Responsive Modern UI/UX Travel Guide Landing Page developed using React.js, Next.js 13, and Tailwind CSS!
 
 ## Overview 🚀
 
@@ -30,13 +30,13 @@ To explore and run the project locally:
 1. **Clone the repository:**
 
     ```shell
-    git clone https://github.com/your-username/travel-guide-landing-page.git
+    git clone https://github.com/mizzath2003/Travel-UI-UX.git
     ```
 
 2. **Navigate to the project directory:**
 
     ```shell
-    cd travel-guide-landing-page
+    cd (project_directory)
     ```
 
 3. **Install the dependencies:**
