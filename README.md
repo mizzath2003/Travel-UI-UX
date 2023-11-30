@@ -2,7 +2,7 @@
 
 Fully Responsive Modern UI/UX Travel Guide Landing Page developed using React.js, Next.js 13, and Tailwind CSS!
 
-[![Travel Guide](img2.png)](https://hilink-traveler.netlify.app/)
+[![Travel Guide](public/readmeimg.jpg)](https://hilink-traveler.netlify.app/)
 
 
 ## Overview 🚀
